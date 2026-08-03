@@ -1,4 +1,5 @@
 notebooks/catboost_info
 .venv/
 .vscode/
-practice_py.py
+pracice.ipynb
+practice_py.py 
