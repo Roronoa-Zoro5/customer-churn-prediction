@@ -40,7 +40,7 @@ Key steps in the modeling workflow:
 The modeling notebook shows example results such as:
 
 - Random Forest accuracy ~0.767 and AUC ROC ~0.708
-- XGBoost accuracy ~0.791 and AUC ROC ~0.705
+- XGBoost accuracy ~0.811 and AUC ROC ~0.863    (after grid search)
 - CatBoost accuracy ~0.806 and AUC ROC ~0.857
 
 ## Where it can be used
